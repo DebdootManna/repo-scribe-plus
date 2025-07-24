@@ -34,10 +34,10 @@ A powerful AI-driven tool that automatically generates comprehensive documentati
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPOSITORY_URL>
+git clone repo-scribe-plus
 
 # Navigate to project directory
-cd mate-ai
+cd repo-scribe-plus
 
 # Install dependencies
 npm install
