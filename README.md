@@ -1,4 +1,4 @@
-# DocuMate AI - GitHub Documentation Generator
+# Repo Scibe Plus - GitHub Documentation Generator
 
 A powerful AI-driven tool that automatically generates comprehensive documentation for GitHub repositories through intelligent code analysis and structure detection.
 
@@ -37,7 +37,7 @@ A powerful AI-driven tool that automatically generates comprehensive documentati
 git clone <YOUR_REPOSITORY_URL>
 
 # Navigate to project directory
-cd documate-ai
+cd mate-ai
 
 # Install dependencies
 npm install
