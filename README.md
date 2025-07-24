@@ -34,7 +34,7 @@ A powerful AI-driven tool that automatically generates comprehensive documentati
 
 ```bash
 # Clone the repository
-git clone repo-scribe-plus
+git clone https://github.com/DebdootManna/repo-scribe-plus.git
 
 # Navigate to project directory
 cd repo-scribe-plus
